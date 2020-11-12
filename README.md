@@ -1,4 +1,4 @@
-# based on torchbox - a fully customizable deep learning implementation solution in Pytorch
+# A fully customizable deep learning implementation solution in Pytorch to remove foreign objects from chest X-ray images
 implement and fine-tune your deep learning model in an easy, customizable and fastest way 
 
 @Lexuanhieu131297 - First version created by Oct 2019
